@@ -1,0 +1,1 @@
+cost estimation | Level: B2, Meaning: The process of forecasting the financial and other resources required to complete a project or produce a product within a defined scope., Word-by-word Russian: оценка стоимости, Part of Speech: Noun phrase, Synonyms: estimate, budget, Russian Translation: Оценка стоимости^^

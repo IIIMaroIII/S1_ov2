@@ -1,0 +1,5 @@
+Definition: Open questions are questions that cannot be answered with a simple 'yes' or 'no', and require a more detailed answer. They are often used to start a conversation or to get more information. | Case #1: Using 'What' | You are thinking about something. -> What are you thinking about? / You did something on the weekend. -> What did you do on the weekend?
+Case #2: Using 'Why' | You are crying. -> Why are you crying? / You didn't go to the party. -> Why didn't you go to the party?
+Case #3: Using 'How' | You solved the problem. -> How did you solve the problem? / You are feeling today. -> How are you feeling today?
+Case #4: Using 'Where' | You went on vacation. -> Where did you go on vacation? / You live. -> Where do you live?
+Case #5: Using 'When' | You will finish your work. -> When will you finish your work? / You were born. -> When were you born?^^

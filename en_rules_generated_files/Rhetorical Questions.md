@@ -1,0 +1,5 @@
+Definition: A rhetorical question is a question that is asked for effect or to make a point, rather than to get an answer. The person asking the question already knows the answer, or the answer is obvious. | Case #1: To make a statement | It's a beautiful day. -> Isn't it a beautiful day? / You are so clever. -> Aren't you clever?
+Case #2: To express doubt | I don't know what to do. -> What can I do? / I can't believe he said that. -> Can you believe he said that?
+Case #3: To show that something is obvious | Everyone knows that. -> Who doesn't know that? / It's clearly the right thing to do. -> Is there any doubt that this is the right thing to do?
+Case #4: To persuade someone | You want to succeed, don't you? -> You want to succeed, don't you? / This is the best option, isn't it? -> This is the best option, isn't it?
+Case #5: To be humorous | I'm so hungry I could eat a horse. -> Who's hungry? / I'm so tired I could sleep for a week. -> Who's tired?^^

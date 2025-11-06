@@ -1,0 +1,1 @@
+estimation is inaccurate | Level: B2, Meaning: A calculation, judgment, or approximation of a quantity, value, or quality is not correct, precise, or true; the assessment deviates from the actual or true value., Word-by-word Russian: оценка является неточной, Part of Speech: Phrase, Synonyms: incorrect estimate, flawed assessment, Russian Translation: Оценка неточна^^

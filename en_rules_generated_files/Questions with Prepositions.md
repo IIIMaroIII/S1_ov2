@@ -1,0 +1,5 @@
+Definition: Questions with prepositions are wh-questions where the question word is the object of a preposition. In formal English, the preposition can come before the question word (e.g., 'To whom...'), but in everyday conversation, it usually comes at the end of the sentence. | Case #1: 'Who' as the object | I was talking to my manager. -> Who were you talking to? / This letter is for my colleague. -> Who is this letter for?
+Case #2: 'What' as the object | She is looking at her phone. -> What is she looking at? / They were talking about the new project. -> What were they talking about?
+Case #3: 'Where' for origin/destination | He comes from a small town. -> Where does he come from? / I'm sending this parcel to the main office. -> Where are you sending this parcel to?
+Case #4: 'Which' for choice | We decided on the first option. -> Which option did you decide on? / I'm interested in the blue one. -> Which one are you interested in?
+Case #5: Formal vs. Informal | The project depends on this data. -> What does the project depend on? / On what does the project depend? / I am working with a new partner. -> Who are you working with? / With whom are you working?^^

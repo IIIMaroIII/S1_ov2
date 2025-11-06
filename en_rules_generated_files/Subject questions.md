@@ -1,0 +1,5 @@
+Definition: Subject questions are questions where the question word (who, what, which, whose) is the subject of the sentence. The word order is the same as a statement, without an auxiliary verb (do/does/did). | Case #1: Asking about people | Someone called you. -> Who called you? / Someone wants to go to the party. -> Who wants to go to the party?
+Case #2: Asking about things | Something happened. -> What happened? / Something made that noise. -> What made that noise?
+Case #3: Asking about choice (people) | One of the students passed the exam. -> Which student passed the exam? / One of the teams won the championship. -> Which team won the championship?
+Case #4: Asking about choice (things) | One of the cars broke down. -> Which car broke down? / One of the books fell off the shelf. -> Which book fell off the shelf?
+Case #5: Asking about possession | Someone's dog barked all night. -> Whose dog barked all night? / Someone's phone is ringing. -> Whose phone is ringing?^^

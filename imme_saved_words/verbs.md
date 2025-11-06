@@ -1,0 +1,1 @@
+to revert to | Level: B2, Meaning: To return to an earlier state, condition, situation, or topic; to start doing something again that one used to do in the past, often implying a return to something less satisfactory or bad., Word-by-word Russian: вернуться к, Part of Speech: Verb phrase, Synonyms: return to, go back to, Russian Translation: вернуться к^^

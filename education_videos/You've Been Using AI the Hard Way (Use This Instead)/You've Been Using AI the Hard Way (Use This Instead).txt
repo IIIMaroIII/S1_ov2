@@ -1,0 +1,485 @@
+(Транскрибировано с помощью TurboScribe.ai. Обновить до Неограниченного, чтобы убрать это сообщение.)
+
+If you're still using AI in the browser, you're doing it the slow way. You see, each of these apps has a terminal version, and they make me 10 times faster. I'm getting so much work done, and the AI companies are kind of quiet about this. 
+
+They're marketing these tools to developers for code, but here's what they're not telling you. You can use them for everything, and it's way better than their apps. Writing, research, projects, working on the terminal is a superpower.
+
+I'm about to show you why. I'm literally writing this video with these tools right now, and most people have no idea this is a thing. But I'm telling you, once you see AI in the terminal, you're never going back to the browser. 
+
+So get your copy ready. We're going to my favorite place, the terminal. But hold up. 
+
+Before we go there, I know what you're thinking. Chuck, I use AI just fine. Do you? Tell me if this sounds like you, because this is how I used to use AI.
+
+You're in the browser or app. You're asking questions. Research mode. 
+
+You're diving deep into a project. Can't even see your scroll bar anymore, and this is your fifth chat because ChatGPT lost its context, or its mind. You also created a few more chats with Claude and Gemini to make sure ChatGPT wasn't lying. 
+
+And yeah, you tried to copy and paste some stuff into your notes app to keep track. That never works. At this point, your project is a mess. 
+
+Spread over 20 chats, two deep research sessions, and scattered notes. There's a better way to do this. Hear me out. 
+
+It's in the terminal. Now we're not going to waste any time. We're diving straight into the terminal. 
+
+And I know you probably have some questions. Put those in your pocket for a second and we'll address those. But I first just want to show you what it looks like. 
+
+I want you to try it so you can know it's not really scary. The terminal is a fun place, and we're going to play with Gemini CLI first. Why? Because it has a very generous free tier. 
+
+That's right. You heard it, free. Now I'll show you Claude code in a second. 
+
+That's my favorite by far. Overpowered. But they share a lot of the same concepts. 
+
+Let's just get you going. We can install it with one command. Now go ahead and launch a terminal. 
+
+It doesn't really matter where you launch it. Mac, Windows, Linux, all these terminal apps work everywhere great. For me, I'm going to use Windows with WSL, or the Windows Subsystem for Linux. 
+
+If you have no idea what that is, it's totally fine. I got a video right here. So I'll launch my Ubuntu terminal. 
+
+Zoom in so you guys can see. And we'll copy and paste this command. Installing Google Gemini CLI. 
+
+Ready, set, go. Coffee break while that goes. If you run into a scary issue, run it with sudo, just like this.
+
+And if you're on Mac, you can also use brew. Brew install Gemini-CLI. Now it's installed.
+
+Before we launch it, we're going to make a new directory, mkdir, and we'll call it coffee project, just like this. Now let's jump in there. CD coffee project. 
+
+Now we can launch Gemini. You'll see why I did this here in a second. Type in Gemini, one word, ready, set, go. 
+
+We're here. Now first, isn't that logo just awesome? I love the terminal. It's so nostalgic. 
+
+Now, first thing you'll do is get logged in with your Google account. Everyone has a Google account. And yes, this can be a free, regular Gmail account. 
+
+It's going to open your browser, sign in, and I'm logged in. Now don't be scared. Go ahead. 
+
+Ask it a question. Like, how do I make the best cup of coffee in the world? I love the little messages that give us herding digital cats. It's doing a Google search right now. 
+
+Pretty sick. Crafting the guide. And then it responds just like we're used to. 
+
+That wasn't so bad, was it? But notice some super-powered things. First of all, we got Gemini 2.5 Pro, the latest and greatest model. Also, the browser doesn't show you this. 
+
+99% context left. Every chat you have with AI has a context window. The browser hides it from you. 
+
+The terminal does not. Also, your browser can't do this. Watch. 
+
+I really want you to find the best way to make coffee. Research the top 10 sites, only reputable sources, and then compile the results into a document named bestcopymethod.md. And then create me a blog plan. Just an outline. 
+
+I'll do the writing. Ready, set, go. All right. 
+
+Now it's asking us a question. Do you want me to write a file for you? Do you want me to create a file for you? Yeah, dude. Go for it. 
+
+This thing can do everything a browser can do, but it has a superpower. It can access your computer. It can read and write files.
+
+Like, I'm not copying and pasting this. It's doing it for me. I mean, look, it actually made files on our computer. 
+
+There they are. Best coffee method, coffee blog. Think about that for a second. 
+
+It can access your obsidian vault, all your notes, because those are just files sitting there on your hard drive. It can run bash and Python scripts. It can do mostly everything because we broke it out of the browser. 
+
+Anyways, back to the terminal. If we type in forward slash tools and hit enter, you can see all that Gemini is allowed to do. You can even add more tools.
+
+But this feature right here is what made me switch from the browser to the terminal. Watch this. Type in forward slash init, just like that. 
+
+Go. What it's doing right now is something powerful. It's creating a Gemini.md file. 
+
+And in the process, it analyzed our project, read our folder, read our files. And yes, go ahead, buddy. Create that file for me.
+
+What it just did there was create instructions for itself, context for what we're working on. Let's take a look at it. I'll cat Gemini.md. And while we didn't do much in this project, it knows. 
+
+It knows what's going on. And every time you launch Gemini, it's going to load that file as its context. Like let's test it. 
+
+So we still have our Gemini session open. I'll open up another Gemini session in that same directory. This is a new conversation, fresh context, a hundred percent left. 
+
+Notice it's using our new Gemini.md file. And I'll tell it this, write the intro for blog posts one and the coffee series. No more context, just that it should know exactly what I'm talking about. 
+
+Look at that. Yep. Go ahead, buddy.
+
+I didn't give it any context. It just knew this is a new chat session. And as I work, I can just ask Gemini to update that file with my thoughts, research decisions. 
+
+We made the progress of our project. And look, it added a summary to what we were working on to our Gemini.md file. I can close all this, start up a new session. 
+
+It picks up where we left off. No re-explaining the context, no starting over, no more 20 scattered chats. We just had this one file that helps keep us organized everything you need. 
+
+You're never paralyzed again. Now, when I saw this, I'm like, this is it. I finally have control over my context, my files, my projects. 
+
+They're not stuck in some browser chat session anymore. They're right here sitting on my hard drive. Mine, my precious. 
+
+Now I'm literally using the Gemini.md file right now for this project. This is a small example. Let me show you a big one. 
+
+This is the Gemini.md file for this video. It tracks everything. It describes how I create project status, major decisions I made, even other documents that should look at. 
+
+Yeah, it can do that. I'll launch a whole new Gemini session in this project and I'll ask you for where we're at in the project. Are you seeing this? This has completely changed the way I create or do anything now. 
+
+And I don't just use Gemini. It's not even close to the best one. Let's look at Claude Cote, my daily driver. 
+
+Oh, this, this one's so crazy. And real quick time for a coffee break and a bit of a PSA. Thanks to our sponsor, Twin Gate. 
+
+Now I'm teaching you and millions of other people how to use AI in the terminal, which will also give AI access to your computer and all your files and access to do pretty much anything. This is cool, but also really scary, especially scary. If they're a remote employee, because not only does your remote employee or just remote person that you give access to your lab or your internal network have access to everything over a traditional VPN. 
+
+If that's what you're still using, I'm talking your servers, file servers, NAS, because that's normally how traditional VPNs work. If someone has remote access to the network, their computer has access to everything in the network, which means their AI may have access to everything in your network. This is insane. 
+
+And it's why traditional VPNs are dead or at least should be, you should be using Twin Gate instead. Twin Gate is all about zero trust network access, meaning they zero trust people connecting to your network and you should zero trust them too. With Twin Gate, your employee is given access to nothing unless you explicitly give it. 
+
+So Beatrice here, she's on the marketing team and given access to the NAS, but only the NAS and nothing else. And definitely not access to the super secret file server where we keep all our coffee recipes. No, no, no, no, no. 
+
+Twin Gate takes this to the next level. This is one of my favorite features right here. Trusted profiles. 
+
+You can make it to where not just any device can connect to your network and it will do checks to see like, Hey, are they running Android? Sorry, buddy. You're out of here because iPhones are clearly better. Everyone agrees. 
+
+Or if they have windows, we can make sure a hard drive encryption is required and they have screen lock and a firewall and antivirus and their OS is up to date and we can block windows 10. All these checks will happen before they're allowed to connect to your network. This is crazy because it's also free for up to five users. 
+
+If you're a business, it's a no brainer, but for like a home labber, you seen this? You can geek out with some enterprise security. It's just fun. And speaking of enterprises, if I create a trusted windows profile, I can connect this to my CrowdStrike, Entune, Jamf, since I don't want whatever EDR or EDM I have and have that tell me if that device is secure or if it meets my standards. 
+
+Now me and my team, we use Twin Gate every single day. If you're still using traditional VPN, you're crazy. Try out Twin Gate. 
+
+You can set it up in about five minutes and it seriously is the best, most secure way to access your home lab or your business network remotely. So go check it out, twingate.com forward slash network chuck or check the link below. Thanks to Twin Gate for sponsoring this video and this channel. 
+
+They helped make my videos possible. I love my partnership with them. Anyways, coffee break over back to the video.
+
+Now I use cloud code, which is cloud in the terminal for pretty much everything. It's my default and here's why it has a feature that changes the game agents. Like look at this, I have seven agents performing tasks right now in one terminal. 
+
+Actually there's 10 and listen, that's just one of the seven features it has that keeps me glued to the terminal. Now cloud code is not free, but I do have good news. If you already pay for cloud pro, which starts at like 20 bucks a month, you can log into the terminal with this subscription and use it. 
+
+So yeah, you don't have to use API keys. And by the way, if you can only pay for one AI subscription, cloud pro is the one I would choose, especially for the last feature I'm going to show you. Now let's get it installed with one command. 
+
+We'll copy and paste this bad boy right here. NPM install. You get it. 
+
+Now I already have it installed. It should tell me that or ask me to do pseudo. It yelled at me again.
+
+I'm sorry. And then we'll launch cloud very similarly to Gemini, just typing cloud in your directory. That's it. 
+
+It will prompt you to get logged in and then ask permission to access this folder. Yes, of course. No, again, don't be afraid to ask a lot of questions. 
+
+Like I need to find a NAS for my house. Here's my budget. What I want to do, create a report for me.
+
+Just like Gemini, it does have some fun little messages for us. It will search the web. It's got this nice TUI terminal user interface. 
+
+Oh, whoops. Our thinking is off. I can press tab to turn on thinking mode. 
+
+Now we're thinking. I noticed it is security first. Like it does ask you permission to do most things and that's good. 
+
+We can get past that here in a moment. If you're feeling dangerous, I am. So it responds similar to Gemini and it can also have a context file too. 
+
+If I run that same command forward slash and net, it will create what's called a Claude dot MD file. Noticing a trend here. And it's doing the same thing, looking through our project, trying to figure out what's what and creating a context file. 
+
+And also similar to Gemini, we can do something like forward slash context, which is so crazy. We can see exactly how many tokens we've used, how much we have left and exactly what's using it. But what's funny with Claude, that doesn't really matter too much. 
+
+As long as you know how to use their most powerful feature agents. Let's make a Claude agent right now. It's really simple. 
+
+We'll do forward slash agents just like this. We'll get a terminal menu and let's create a home lab research expert. And I'll just tell it that. 
+
+So create a new agent. Notice it'll ask us like, where, where do you want to make it? Because you can have agents that are tied to just this project we're working on or personal agents that are tied to everything. You can always call them.
+
+We'll do just this project. We'll use Claude to make it. We can tell it what we want it to be.
+
+It's going to paste this in here and let it go to work. Notice you can give it access to tools or restrict access. We'll give it everything. 
+
+Choose our model. Sonnet's great. Auto-color.
+
+There's our agent. Press enter to save. And we'll hit escape to get out of that interface. 
+
+And we just made our first agent home lab guru. But what's the point of that? Because I kind of feel like we can just ask Claude to do research for us because we literally just did that. You're right.
+
+But watch this. I'm going to do a forward slash context once more so we can get our baseline. We've used 85,000 tokens. 
+
+I'll give this prompt and I'm calling it home lab agent. It'll figure it out. I'll have it create a document and I'll say, make sure you reference the research we made.
+
+I can just do an at symbol and look at the documents in our directory. There's the NASREC folder. There we go. 
+
+Watch. It's going to use the home lab guru agent. There it is. 
+
+There's our agent researching for us right now. Now here's why this is amazing. Actually kind of insane. 
+
+So Claude was like, cool, I've got a task, but it's not for me. I'm going to delegate this task to one of my employees or one of my coworkers. And this is another Claude instance. 
+
+It's like a guy sitting over there. He's like, Hey buddy, are you busy? Here's some work to do. He's giving him a fresh set of instructions and get this a fresh context window. 
+
+You saw just now we have 200,000 tokens in our context window. We use 42% of it. This guy, he's got a fresh 200. 
+
+That means the conversation we're having right now, me and the main Claude guy, it's protected. It doesn't get too bloated. I can give tasks to other sub agents and never have to leave this conversation. 
+
+Claude just delegated this task to a new agent. He's got a fresh pot of coffee. He's, he's ready to go. 
+
+He just walked into work and you can create a ton of different agents for different purposes. I use them all the time to protect my context and avoid any kind of weird bias. Like for example, here's my YouTube outline for this video. 
+
+I'll normally be working with Claude on an outline like this. And often the context window, it can get pretty big. Like this is where I'm at right now. 
+
+And let's say at this point, I want a comprehensive review of my outline. I have a brutal critic agent. I can just deploy. 
+
+Hey, let's have, I'll just do at and call him. There is agent brutal critic review my outline. And by the way, this is a fun one. 
+
+It's designed to just completely roast me according to the framework I have and the scripting goals. And it just deploys it. My conversation is still sane, but I have a new energized employee. 
+
+Just got a new sub coffee in hand, fresh eyes, ready to go. Like look at them go. And you can run multiple agents. 
+
+Like I showed you at the beginning of the segment, let's go check on our home lab agent. Actually, he's been kind of busy. Oh, he's still going. 
+
+We're going to have the best home lab ever. And by the way, we can hit control. Oh, to see what he's doing. 
+
+Oh no. I interrupted him. I interrupted. 
+
+Sorry. Keep going. Don't mind me. 
+
+Actually, let's open up a new window, jump into our project, which we still have copy project. It's okay. It'll figure it out. 
+
+Launch Claude in there. He's got his cloud.md file. He knows what's going on. 
+
+And let's run this prompt. We'll launch our home lab agent to research the best servers. At the same time, do a general agent. 
+
+That'll just search for the best pizza place in Dallas, Texas. And then another home lab agent that'll find the best graphics card for gaming right now. And then put it all together in a comprehensive report. 
+
+Let's go. Now that's doing its stuff right now. Deploying new employees over here. 
+
+I've got the home lab guru working, finding the best network equipment. I feel so powerful right now. This is so fun. 
+
+Yeah. There are the three agents go. Of course, you got to give it permission to search the web and stuff.
+
+A lot, actually. I'll show you how to get past that here in a moment. Actually, I'll show you right now. 
+
+Um, I'm going to actually interrupt them. I'm going to hit control C to get out of there. Control C twice. 
+
+We can run this switch and actually I'll do Claude dash R so I can resume a previous conversation. Yes, you can do that. And then I'll do dash, dash, dangerously dash, skip dash permissions. 
+
+This is cloud without training wheels. Ready, set, go. We can choose that previous chat we had. 
+
+Let's do this one here. Yes. I interrupted you.
+
+I'm sorry. Go ahead and do it again. I noticed right here by past permissions is on go. 
+
+Now we're cooking, man. Look at this. Three employees, fresh cups of coffee. 
+
+Just going. I told you the terminal was awesome. Let's get crazier. 
+
+I'll create another tab because no one can stop us to pitch our project. Launch cloud and dangerous mode. And what do you say? We have Claude use Gemini for research. 
+
+Yes, because we can run Gemini and Claude and all these terminal tools in headless mode. Meaning you don't jump into a TUI. You just run them with one command. 
+
+It's like Gemini dash P and then here's your prompt. Find pizza. We can just create an agent that does that. 
+
+Let's make it happen. Create a new agent. I'll give it a basic prompt. 
+
+You are a research expert. You will use Gemini and headless mode to research. Use it like this. 
+
+That should do it. Let's check in our home lab. Guru. 
+
+Yeah, he finished up. It's looking back at our home lab guru. He used 40,000 tokens. 
+
+Just himself. Fresh employee. Let's check our context for this conversation. 
+
+We only used 4,000 more tokens for that. It was 85. Now we're at 88. 
+
+All right. Now let's find the best AI terminal videos on YouTube. Use the Gemini research agents.
+
+And look at that. It's using Gemini to search. We're having an AI use an AI right now. 
+
+There's the prompt. I want to hit control. Oh, let's check on our multi-agent. 
+
+See how they're doing. They're still working, man. All right. 
+
+It finished up. Our agent used Gemini to find the top 10 videos. But this next feature is tied with how awesome agents is. 
+
+And I'm embarrassed to say, I just found this out while making this video. Now, Cloud Code, it was built for coders. It's in the name, but I hacked it. 
+
+Kind of. Cloud Code has a feature called output styles. Look at this, forward slash output style. 
+
+We've got a few defaults in here and these essentially control the system prompt for Cloud Code, how it's going to respond to you, the persona it has. The default is code and that's what we're using, but we can change that. Let's create a new one. 
+
+So I'll go back here, type in output style again and do output style new. It's actually an agent. I didn't know that. 
+
+Let's just be simple. You are a home lab expert designed to help me create the best home lab possible. That's it. 
+
+Now we can get a lot crazier than that, but you get the idea and that's it. Type in output style. There it is. 
+
+I can adopt that right now, or when I back out and I jump back in, I think it should adopt that style by default. Yes, it does. You can create output styles that are tied to just your projects or as a whole, whatever project you jump into, you can switch to those output styles. 
+
+I'm using the output style right now to make this video. You want to see it? Script writing output style. And this is what it looks like. 
+
+Pretty intense. Optimize for what I do. And honestly, this entire video could be about Cloud. 
+
+There are so many features. Like you can do shift tab to cycle between modes. One of my favorites is planning mode. 
+
+Hit shift tab. There were plan mode on. This will put a very well thought out plan together.
+
+And then you approve it. And then it just does it like there it is and no keep planning or yes, let's keep doing it. And there are so many things I can't dive into them. 
+
+Like they have prompts, hooks, custom status lines. You can paste images into your terminal, but here's the thing. I don't just use cloud code. 
+
+I use Gemini. I use cloud code and I use codex, which is terminal tool all at the same time. Let me show you how. 
+
+Gemini, cloud code, Chad, UBT's codex. I'm using all three right now to work on this video script. How? Two steps. 
+
+First, as long as I open up cloud, Gemini and codex in the same directory, they're all using the same context. It's the same project. Let's do that right now.
+
+Cloud, Gemini, if I spell it right and codex. The second thing I do is I make sure my context files are all synced up. They all say the same thing. 
+
+So Gemini.md, cloud.md and agents.md, which is what codex uses. And they're trying to make it a standard. They're all the same.
+
+And I usually have a terminal open for each one while I'm working on a script or any kind of project. Watch this. I'll tell cloud to write a hook for this video, authority angle, write it to authority hook.md. I'll have Gemini write a hook on a discovery angle, write it to discovery hook.md. And then I'll have codex review it.
+
+And that's normally what I do. I find chat GPTs very good at analyzing things from a high view. Gemini and cloud are very good at the work, the deep work, and look at it go. 
+
+They're all using the same context, different roles. I mean, I have three different AIs working on the same thing at the same time, no copying and pasting. They can see each other's work. 
+
+They're working in the same directory. That's awesome. And it's done. 
+
+Looks like Claude won this one. Good job, Claude. Now, are you seeing what's happening here? This is the craziest part about this. 
+
+Everything I'm doing talking with these three different AIs on a project, it's not tied in a browser. It's not tied in a GUI. It's just this folder right here on my hard drive. 
+
+I can copy and paste that folder anywhere. All the work, all the decisions, all the context it's mine. And that's the difference.
+
+Nothing annoys me more than when chat GPT tries to fence me in, give me that vendor lock-in so I can't leave. No, I reject that. I own my context. 
+
+If a new, greater, better AI comes out, I'm ready for it because all my stuff is right here on my hard drive. I will use all AI. I'll use the best AI. 
+
+No one could stop me. So I got a little excited there. And that's what I want you to take away here. 
+
+Leaving the browser, going to your terminal puts you back in control and it gives you better features. Oh, but now I want to get real practical. I want to show you exactly how I run a project like this, how I keep things in sync, how I keep my clod, Gemini and agents files in sync and work on a daily basis using a system like this. 
+
+I'm going to refill my coffee. I'll see you there. Okay. 
+
+This video was made with this process. First thing I want to show you is how things are synced up specifically in my clod file, my Gemini file and my agents file, which is codex. It's an agent. 
+
+That's all it is. So if I get back to my terminal here, where I was showing you earlier, when we had our hooks developed, clod made one, Gemini made one and codex critiqued it. I rely on clod to run my agent that will close out everything. 
+
+So I'll just normally do this when I'm done for the day. I'll go, Hey, let's close this out, run. And I'll mention my agent script session closer. 
+
+Let me show you what that looks like. This is one of those agents I keep as a personal agent. I use it for many projects. 
+
+And these agents are just files. They're files inside an agent's folder. I'll cat that file here, script session closer. 
+
+And here it is. It does a lot of stuff, but some of the key things it does actually, while I'm talking with you about this, I'm going to go and run the agent because we did some stuff. Didn't we? I'll run that agent, but first it'll gather everything. 
+
+We talked about everything we did and do a comprehensive summary. It will then update a session summary file that's specific to just updating. What are some things that were done in the past sessions? It will see if any core project files need to be updated. 
+
+And if I'm talking with clod, it will update every context file, clod, Gemini agents. And then this is probably my favorite part. I commit my project to a GitHub repo. 
+
+So normally you would use get for code, right? For writing and deploying code. I treat my scripts and pretty much every project I work on in my life, like code. We commit that change, give a reason for that change. 
+
+So I can see a history of what I did and why I did it. Maybe something breaks. I can go back to that change and reinstate it. 
+
+That's the power of using GitHub with all your ideas. Now this is killer for me because I'm really bad at documentation. I'm really bad at keeping track of things, but now I have this help me keep track of things. 
+
+So when I'm really tired at the end of the day and I like, I've been working on a video and my mind is fried. I'm like, okay, tell you what I'm done. Close this out. 
+
+It will look through all this stuff. It will figure out where I'm at and the end project in the day where I need to be. And then I can start fresh the next day and be like, Hey, um, where are we at? What are we working on? They can tell me, Hey, Chuck, you finished the script. 
+
+It's time to record. We made these three decisions. Go for it. 
+
+That's it. This is the tool I've been looking for. The syncing is probably my favorite part. 
+
+No, no, actually this thing is my favorite part, how it roasts me. So I don't only use these AI terminal tools to help me create. I use them to critique me and make me better. 
+
+So here are my critics. These guys are so stinking mean, and I designed them to be, they are agents. I get the brutal critic. 
+
+I told him to be mean. So I had an issue where my AI was being way too agreeable. Like I'd write a, write something and be like, Oh Chuck, best thing you ever wrote. 
+
+I'm like, ah, you're gaslighting me. Stop it. I wanted something to be super mean. 
+
+I wanted it to be hard to please so that when I, when it did tell me I did a good job, I knew it like it was good. And that's what this thing does. So I actually, I'm curious if my script right now is any good.
+
+I actually have not used it yet on this, which I normally don't do. It's bad. Um, let's see.
+
+I'll say, use the brutal critic to absolutely roast and verify my stuff is good. And this script, I'll just reference my script. Cause again, everything's a file local here on my file system. 
+
+I mean, you can just move so quickly and nimbly when you have a system like this and the agent's going to go, it's going to do its thing. And again, what I love about this is while I've been talking with this AI for a minute, right? We've been going back and forth doing things. If I asked that session to review me, it would have a ton of bias coming into that based on like what we've been talking about. 
+
+I don't want that. I want a fresh cup of coffee credit coming in going, here's what I know network Chuck needs to have. And I'm going to roast his current script on what he's doing. 
+
+That's what I need. Notice it was really quick editor, free stream on that. I have inside its instructions to read some framework documents I have that describe how I create and describe like what my thing is, who my audience is. 
+
+Again, I don't copy and paste. I got context already here. You can reference that. 
+
+Oh, I love this so much. It's my favorite thing. I had to make a video about this cause I wouldn't stop telling my wife about it. 
+
+And she was going crazy. Whenever he talks to me, I, it just goes in one ear and out the other. I tell everyone about this. 
+
+I'm actually really scared about what it's going to say. Oh no. Okay.
+
+Okay. Let's see what it said. So when I fix it, it'll be good. 
+
+What did it tell me? Oh, it's an 8.2. That's not bad. No, I forgot. I did this. 
+
+The brutal critic has three personalities or three people that come in and roast it from different angles. I forgot. I did that. 
+
+It's insane. Okay. I don't like this. 
+
+I'm not sure I agree with this. We'll see. It says segment five is a feature dump nine features, zero depth, five to 8% retention drop, which means you'll stop watching. 
+
+Let's prove it wrong. This segment five is coming up. We're currently in segment four. 
+
+Jump there. If you want to, I don't care. Tell me if it's bad. 
+
+It's actually really cool. I hope, but seriously doing stuff like this saves me hours. And also I want you to know this, like it's not writing for me. 
+
+Like I'm doing the writings. I like to keep that. I think that's important now with AI, but I do have AI like roast me, help me stay on track because I get distracted.
+
+I might make some really bad creative decisions that aren't in line with what we're trying to do. Now, the point I want to hit home is that I made this for me. This is my own personal software, exactly my use case. 
+
+What can you build for you? That's just for you and your niche and whatever you're trying to make, make happen. And this is just one tool I've made. Look at the other stuff I've done that crazy product. 
+
+I showed you in the beginning running like seven agents. This is a custom built project just with cloud code. And I'm going to use it right after I record this. 
+
+It's going to go through every, every file. It's going to transcribe it, read it and give my editors notes. They need to be able to edit this video. 
+
+Like, Hey, Chuck repeated himself 17 times in the fourth video and it's a disaster. Ignore that one. It will do that. 
+
+Seriously. The tools that create are so powerful for me. I wake up every day feeling like I have superpowers. 
+
+I want this for you. Now, speaking of superpowers, let's talk about segment five. There's a tool that's actually open source. 
+
+Now you can use any model you want with this open source alternative, and it might be the best tool of all of them. I'm still testing it. You also get grok free, which is pretty sick. 
+
+And a really powerful part of this is you can log in with your cloud pro subscription and use it like cloud code. Let's play with it. It's called open code.
+
+We can install it with one command. I'll have all these commands below installing that was quick. And that's it. 
+
+If I can just launch open code, just type it in like this. That does it. Oh, let me do a source because I added to my bash RC file. 
+
+You might have to do this too. Source dot bash RC. Now let's try it. 
+
+You can open and close your terminal. Do the same thing. Oh, we're here. 
+
+This is open code. A nice two terminal user interface. A couple of things real quick. 
+
+They launched a straight into grok code fast one. They have a deal with grok AI that allows you to use this for free for a while. So same story. 
+
+Hey, grok codes helping us even like, Hey, can I help you with your coffee project? No mass stuff. So it read the document and it can do all the stuff. Okay, cool. 
+
+I'm going to exit out. We can use local models. This is the killer part. 
+
+I don't think any other tool does this, but we have to edit a file. So I'm going to nano and I think it's inside dot config open code. Yeah, that's the directory.
+
+And then I think the code, the file has to be open code dot Jason. See, I'll paste this in here. I'm going to use, uh, let's do it. 
+
+Llama three dot two. I think that's what I have installed. We'll find out. 
+
+I'll save that. Let me see. Oh, Llama lists. 
+
+You want my little models are do I have three dot two? I'll pull it down. If I don't. And then when I launched open code again, with that config in place, Oh wait, what did I break? Let me fix that file real quick.
+
+There we go. I should be able to go forward slash model and change to Llama three dot two. Hey, cool. 
+
+Llama works. If I back out, I can log into cloud with this command, open code off login. I can choose anthropic with my cloud pro.
+
+And I'll launch this browser, paste this code in there. And now I'm logging into cloud code and just launch open code now and switch models to cloud. It's on at four dot five.
+
+And we can pick up where we left off because again, all our files are local. It doesn't matter what tool we use. It's all ours right here. 
+
+I can switch models in the midway. Let's go back to Grok. Cool. 
+
+What's our next step? Cool. While it's doing that, I can do new session. This is a new session, push models to cloud. 
+
+I can do sessions, see all the sessions I have. Why do I have so many? Oh, these are my past sessions. We can also share the sessions forward slash share and watch this. 
+
+This is so crazy. I think I'm going to do it. Oh, the URL is copied my clipboard. 
+
+So I can go to my browser, paste that URL in and I can look at that. That's awesome. Wait, is it live? You can share your session with people. 
+
+That's pretty neat. Okay. We can do timeline. 
+
+We can jump back in time and restore. I guess like if we don't like how far we've come in our conversation, we just go back. I want that in real life. 
+
+That's awesome. We can jump out of there and do open code dash dash help. They've got agents. 
+
+You can start a headless server. You can attach the headless servers, export your session as Jason data. I mean,
+
+(Этот файл длиннее 30 минут. Обновить до Неограниченного на TurboScribe.ai, чтобы транскрибировать файлы длиной до 10 часов.)
