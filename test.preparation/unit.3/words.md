@@ -44,3 +44,7 @@ specifications are clear-cut
 a neatly packaged product
 the project is bound to fail
 it deserves the same scrutiny
+an obstacle
+the sole solution
+bound for failure
+assert authority
