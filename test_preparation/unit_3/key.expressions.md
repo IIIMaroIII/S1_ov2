@@ -1,4 +1,3 @@
-
 Group - Asking for an update 
 How does your side of things look?
 How's the ... coming along?
@@ -26,5 +25,3 @@ I don't think that would .
 That's not an ideal solution.
  I'm not convinced.
 I suppose so
-
-
