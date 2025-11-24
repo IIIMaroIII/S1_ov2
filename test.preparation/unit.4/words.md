@@ -1,19 +1,17 @@
-step up your game
+compartmentalization
+set boundaries
+harness the power
+sustained performance
+huddle on the deliverable
 rev up
-do a dry run
-nooks and cranies
+dry run
+nooks and crannies
 hit a home run
 be stiff and robotic
 
+step up your game
 
-a nutshell
-in a nutshell
-expand on 
-run over/through the main takeaway
-let's kick off
-i got carried away a little
-ties in with 
-start by (verb+ing)
-start with (noun)
-elaborate an idea
-off topic
+start off 
+spotlight
+lighthouse
+you can flop
