@@ -29,3 +29,13 @@ shaking up
 to envision
 beholden to 
 amenable government
+evidence
+foundation
+govern
+stealing
+looting goods
+nitty-gritty
+realm
+cast a shadow over
+woo a favour
+pitched representations
