@@ -3,5 +3,7 @@ Now I'll provide you a pattern and the list of word/prase/sentence, apply the fo
 the pattern, format in vim style:
  <word/phrase/sentence> | <Level:>\n <Meaning:>\n<Synonyms:>\n<In Russian:>\n ^^
 
+Format this info in copy paste vim format 
+
 list:
 
