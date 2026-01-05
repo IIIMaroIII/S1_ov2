@@ -55,7 +55,6 @@ It is easier to command a group when trust exists.
 ==================================================
 TASK 2. STAGES OF THE DECISION-MAKING PROCESS
 Define the problem or issue
-Gather information and data
 Identify all possible alternatives
 Assess and evaluate the alternatives
 Consider resources, ability, and outcomes
