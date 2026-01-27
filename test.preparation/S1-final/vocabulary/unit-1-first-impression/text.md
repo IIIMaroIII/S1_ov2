@@ -1,0 +1,10 @@
+TOPIC 1 — FIRST IMPRESSION (≤2 minutes)
+
+From my perspective, first impressions are a vital tool: they decide whether someone will listen to you, trust you, and give you the benefit of the doubt. “People often form an opinion within moments of meeting someone.” Because of that, we should be conscious of our natural inclinations and avoid judging too fast. If we rely only on instinct, we may start swimming against the tide of what’s actually based on evidence.
+
+In business, “The company wants to project an image of professionalism and trust.” So, “It is important to create an impression that shows confidence and competence.” That doesn’t mean acting superior; it means coming across as prepared and steady. For example, “She comes across as friendly and approachable.” That’s usually achieved by speaking clearly, listening actively, and being consistent. Still, bias is real: “I took an instant dislike to him because of his rude behaviour.” It’s easy to take an instant dislike, to form an opinion, and then to treat that first story as truth. A better approach is to create an impression that is based on evidence, not on a single moment.
+
+Nowadays, there’s also a lack of in-person interactions, so we need to foster positive virtual interactions. People tend to behave differently online, so I focus on making eye contact by looking into the camera and on projecting a warm vibe—smiling while speaking and summarising clearly.
+
+In real outreach, I keep it simple and professional. I briefly explain why I’m contacting the person and how I got their details, so it doesn’t feel random. Then I ask one clear question or propose one next step—without putting pressure on them. If they reply quickly, I acknowledge it, because it sets a friendly tone and keeps the interaction smooth. And if meeting in person becomes relevant, I move the conversation forward by suggesting a time to talk and sharing any practical details, like directions or travel info. Overall, the goal is sounding clear, respectful, and easy to work with.
+
